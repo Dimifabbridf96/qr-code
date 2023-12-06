@@ -17,7 +17,7 @@ A simple QR code page builted with HTML and CSS
 
 ### Screenshot
 
-<image src= './images/QR.JPG' alt='QR code'>
+<image src= './images/QR.jpg' alt='QR code'>
 
 Screenshoot of my QR code project
 
